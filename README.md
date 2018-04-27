@@ -29,7 +29,7 @@ Created "bamazondb" database in MYSQL
 <img width="851" alt="screenshot2" src="https://user-images.githubusercontent.com/25251287/39383805-e3652e3c-4a27-11e8-9d55-5f52433c5ddf.png">
 
 
-## Screenshot 3 - Demonstate failure to fill an order due to insufficient quantity in inventory:
+## Screenshot 3 - Demonstrate failure to fill an order due to insufficient quantity in inventory:
 
 * Show current inventory after purchases,
 * Customer prompted to order an item,
