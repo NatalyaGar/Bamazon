@@ -9,14 +9,14 @@ BamazonCustomer:
 * computes the cost
 * depletes the stock from the store's inventory
 
-# Screenshot 1
+## Screenshot 1
 
 Created "bamazondb" database in MYSQL
 
 <img width="982" alt="screenshot1" src="https://user-images.githubusercontent.com/25251287/39383697-7b6fd1b0-4a27-11e8-9304-cc6f9c7e559a.png">
 
 
-#Screenshot 2 - Command Line Interface:
+## Screenshot 2 - Command Line Interface:
 
 * Display all of the items available for sale.
 * The app prompt users with two messages:
@@ -29,7 +29,7 @@ Created "bamazondb" database in MYSQL
 <img width="851" alt="screenshot2" src="https://user-images.githubusercontent.com/25251287/39383805-e3652e3c-4a27-11e8-9d55-5f52433c5ddf.png">
 
 
-#Screenshot 2 - Demonstate failure to fill an order due to insufficient quantity in inventory:
+## Screenshot 3 - Demonstate failure to fill an order due to insufficient quantity in inventory:
 
 * Show current inventory after purchases,
 * Customer prompted to order an item,
