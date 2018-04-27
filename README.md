@@ -13,11 +13,13 @@ BamazonCustomer:
 -----------------------------------------------------------------------------------------------------------------
 Created "bamazondb" database in Sequel Pro MYSQL
 
-![MYSQL database](../images/Screen Shot 2018-04-22 at 6.57.59 PM.png)
+![MYSQL database](../images/screenshot1.png)
 Format: ![MySQL](url)
 
-![MYSQL](../images/path/to/Screen Shot 2018-04-22 at 6.57.59 PM.png?raw=true)
+![MYSQL](../images/path/to/screenshot1.png?raw=true)
 
 <div align="center">
-    <img src="../images/Screen Shot 2018-04-22 at 6.57.59 PM.png" width="400px"</img> 
+    <img src="../images/screenshot1.png" width="400px"</img> 
 </div>
+
+![Screenshot](screenshot1.png)
