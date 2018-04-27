@@ -18,3 +18,6 @@ Format: ![MySQL](url)
 
 ![MYSQL](../images/path/to/Screen Shot 2018-04-22 at 6.57.59 PM.png?raw=true)
 
+<div align="center">
+    <img src="../images/Screen Shot 2018-04-22 at 6.57.59 PM.png" width="400px"</img> 
+</div>
