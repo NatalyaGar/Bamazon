@@ -40,7 +40,7 @@ connection.connect(function(err) {
 		{
 			type: 'input',
 			name: 'item_id',
-			message: 'What is the ID of the product you would like to buy?',
+			message: 'What is the ID of the product would you like to buy?',
 			validate: validation,
 			filter: Number
 		},
